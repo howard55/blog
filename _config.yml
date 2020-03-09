@@ -10,7 +10,7 @@ description: "有事没事BB一下"
 keywords: 
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 0
 
 # ---------------- #
 #      Author      #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: 
+# repository: 
 
 # ---------------- #
 #      Comments    #
@@ -122,4 +122,4 @@ simple_jekyll_search:
 #    Analytics     #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: 
